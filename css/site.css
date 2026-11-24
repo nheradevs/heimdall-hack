@@ -38,7 +38,7 @@
   .burger{display:none;background:none;border:none;color:var(--ink);cursor:pointer;padding:.3rem}
   /* Hero */
   .hero{position:relative;min-height:92vh;display:grid;place-items:center;text-align:center;overflow:hidden;padding:8rem 1.5rem 6rem}
-  .hero-bg{position:absolute;inset:-12% 0;background:url("assets/hero-glitch.jpg") center/cover no-repeat}
+  .hero-bg{position:absolute;inset:-12% 0;background:url("../assets/hero-glitch.jpg") center/cover no-repeat}
   .hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(17,14,27,.55),rgba(17,14,27,.72) 55%,var(--bg) 100%)}
   .hero > .wrap{position:relative;z-index:2}
   .hero h1{font-size:clamp(2.5rem,6vw,4.3rem);line-height:1.08;max-width:17ch;margin:0 auto .9em}
