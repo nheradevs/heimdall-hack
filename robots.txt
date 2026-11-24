@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://heimdallhack.pages.dev/sitemap.xml
+Sitemap: https://heimdall-hack.pages.dev/sitemap.xml
